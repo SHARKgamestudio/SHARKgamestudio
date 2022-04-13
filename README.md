@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SHARKgamestudio
+- 👀 I’m interested in Video Games developement
+- 🌱 I’m currently learning python and i already develop in C#
+- 💞️ I’m looking to collaborate on Open-Sources collaborative project and NOTHING ELSE
+- 📫 How to reach me : Discord, and Youtube
