@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://zupimages.net/up/24/51/uj3y.png"/>
+  <img height="200" src="resources/banner.png"/>
 </div>
 
 ###
