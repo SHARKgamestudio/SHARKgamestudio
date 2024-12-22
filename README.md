@@ -21,5 +21,5 @@
 ###
 
 <p align="left">
-  <a href="#"><img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px"></a>
+  <a href="#"><img src="resources/badges/csharp.svg" alt="example badge" style="vertical-align:top margin:6px 4px"></a>
 </p>
