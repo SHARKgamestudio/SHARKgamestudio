@@ -19,3 +19,7 @@
 <p align="left">✨ Creating bugs since 2016<br>🛠️​ Procedural tools addict<br>🎮​ Love playing Borderlands 2<br>🏎️​ Racing sim enjoyer<br>🚂​ In love with old choo-choos</p>
 
 ###
+
+<p align="left">
+  <a href="#"><img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px"></a>
+</p>
