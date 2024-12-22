@@ -21,7 +21,8 @@
 ###
 
 <p align="left">
+  <a href="#"><img src="resources/badges/c.svg" alt="c badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="#"><img src="resources/badges/csharp.svg" alt="chsarp badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="#"><img src="resources/badges/c++.svg" alt="c++ badge" style="vertical-align:top margin:6px 4px"></a>
-  <a href="#"><img src="resources/badges/c.svg" alt="c badge" style="vertical-align:top margin:6px 4px"></a>
+  <a href="#"><img src="resources/badges/python.svg" alt="python badge" style="vertical-align:top margin:6px 4px"></a>
 </p>
