@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Love programming<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" alt="Astonished Face" width="25" height="25" />​? Me too! Let’s grab a drink🍻​!</h1>
+<h1 align="left">Love programming😮​? Me too! Let’s grab a drink🍻​!</h1>
 
 ###
 
