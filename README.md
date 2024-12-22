@@ -19,3 +19,4 @@
 <p align="left">✨ Creating bugs since 2016<br>🛠️​ Procedural tools addict<br>🎮​ Love playing Borderlands 2<br>🏎️​ Racing sim enjoyer<br>🚂​ In love with old choo-choos</p>
 
 ###
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" alt="Astonished Face" width="25" height="25" />
