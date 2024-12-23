@@ -30,3 +30,16 @@
   <a href="#"><img src="resources/badges/c++.svg" alt="c++ badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="#"><img src="resources/badges/python.svg" alt="python badge" style="vertical-align:top margin:6px 4px"></a>
 </p>
+
+###
+
+<h2 align="left">My game-engines</h2>
+
+###
+
+<p align="left">
+  <a href="#"><img src="resources/badges/unity.svg" alt="unity badge" style="vertical-align:top margin:6px 4px"></a>
+  <a href="#"><img src="resources/badges/unreal.svg" alt="unreal badge" style="vertical-align:top margin:6px 4px"></a>
+  <a href="#"><img src="resources/badges/unigine.svg" alt="unigine badge" style="vertical-align:top margin:6px 4px"></a>
+  <a href="#"><img src="resources/badges/cryengine.svg" alt="cryengine badge" style="vertical-align:top margin:6px 4px"></a>
+</p>
