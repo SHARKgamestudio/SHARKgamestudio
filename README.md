@@ -33,13 +33,27 @@
 
 ###
 
-<h2 align="left">My game-engines</h2>
+<h2 align="left">My engines</h2>
 
 ###
 
 <p align="left">
+  <a href="#"><img src="resources/badges/sfml.svg" alt="sfml badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="#"><img src="resources/badges/unity.svg" alt="unity badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="#"><img src="resources/badges/unreal.svg" alt="unreal badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="#"><img src="resources/badges/unigine.svg" alt="unigine badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="#"><img src="resources/badges/cry-engine.svg" alt="cryengine badge" style="vertical-align:top margin:6px 4px"></a>
+</p>
+
+###
+
+<h2 align="left">My softwares</h2>
+
+###
+
+<p align="left">
+  <a href="#"><img src="resources/badges/clion.svg" alt="clion badge" style="vertical-align:top margin:6px 4px"></a>
+  <a href="#"><img src="resources/badges/vscode.svg" alt="vscode badge" style="vertical-align:top margin:6px 4px"></a>
+  <a href="#"><img src="resources/badges/pycharm.svg" alt="pycharm badge" style="vertical-align:top margin:6px 4px"></a>
+  <a href="#"><img src="resources/badges/visualstudio.svg" alt="visualstudio badge" style="vertical-align:top margin:6px 4px"></a>
 </p>
