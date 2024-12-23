@@ -41,5 +41,5 @@
   <a href="#"><img src="resources/badges/unity.svg" alt="unity badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="#"><img src="resources/badges/unreal.svg" alt="unreal badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="#"><img src="resources/badges/unigine.svg" alt="unigine badge" style="vertical-align:top margin:6px 4px"></a>
-  <a href="#"><img src="resources/badges/cryengine.svg" alt="cryengine badge" style="vertical-align:top margin:6px 4px"></a>
+  <a href="#"><img src="resources/badges/cry.svg" alt="cryengine badge" style="vertical-align:top margin:6px 4px"></a>
 </p>
