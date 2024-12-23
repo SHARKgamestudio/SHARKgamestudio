@@ -57,3 +57,7 @@
   <a href="#"><img src="resources/badges/pycharm.svg" alt="pycharm badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="#"><img src="resources/badges/visualstudio.svg" alt="visualstudio badge" style="vertical-align:top margin:6px 4px"></a>
 </p>
+
+##
+
+<h2 align="left">Socials</h2>
