@@ -38,7 +38,6 @@
 ###
 
 <p align="left">
-  <a href="#"><img src="resources/badges/sfml.svg" alt="sfml badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="#"><img src="resources/badges/unity.svg" alt="unity badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="#"><img src="resources/badges/unreal.svg" alt="unreal badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="#"><img src="resources/badges/unigine.svg" alt="unigine badge" style="vertical-align:top margin:6px 4px"></a>
@@ -68,4 +67,12 @@
   <a href="https://www.instagram.com/shark_studio_officiel/"><img src="resources/badges/instagram.svg" alt="instagram badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="https://www.linkedin.com/in/shark-studio/"><img src="resources/badges/linkedin.svg" alt="linkedin badge" style="vertical-align:top margin:6px 4px"></a>
   <a href="https://www.youtube.com/@sharkgamestudio7630"><img src="resources/badges/youtube.svg" alt="youtube badge" style="vertical-align:top margin:6px 4px"></a>
+</p>
+
+<h2 align="left">Others</h2>
+
+###
+
+<p align="left">
+  <a href="#"><img src="resources/badges/sfml.svg" alt="sfml badge" style="vertical-align:top margin:6px 4px"></a>
 </p>
