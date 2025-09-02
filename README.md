@@ -75,5 +75,5 @@
 
 <p align="left">
   <a href="#"><img src="resources/badges/sfml.svg" alt="sfml badge" style="vertical-align:top margin:6px 4px"></a>
-  <a href="#"><img src="resources/badges/raylib.svg" alt="raylib badge" style="vertical-align:top margin:6px 4px"></a>
+  <a href="#"><img src="resources/badges/raylib.svg" alt="raylib badge" style="vertical-align:top margin:6px 4px"></a
 </p>
